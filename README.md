@@ -1,4 +1,4 @@
-# YourMusic
+# YourMusic Front
 
 
 ## Authors:
@@ -17,8 +17,6 @@ YourMusic is a basic music reproductor thar allows you to:
 You can check the deployed version [here](https://inalambria-front.jsprieto10.vercel.app/).
 
 ## Deployment
-
-You can check the deployed version [here](https://inalambria-front.jsprieto10.vercel.app/)
 - Clone this repo
 
 - Run the following commands
@@ -28,7 +26,7 @@ You can check the deployed version [here](https://inalambria-front.jsprieto10.ve
   npm run serve # Starts the front end
   ```
 
-- Go to localhost:8080 on your browser
+- Go to http://localhost:8080 on your browser
 
 
 ## Screenshots

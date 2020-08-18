@@ -24,7 +24,6 @@ You can check the deployed version [here](https://inalambria-front.jsprieto10.ve
 - Run the following commands
 
   ```bash
-  cd front
   npm install # Installs dependencies
   npm run serve # Starts the front end
   ```
